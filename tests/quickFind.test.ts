@@ -1,4 +1,4 @@
-import { QuickFind } from '../src/quickFind';
+import { QuickFind } from '../src';
 
 describe(QuickFind, () => {
     it('should union 2 and 3', () => {
