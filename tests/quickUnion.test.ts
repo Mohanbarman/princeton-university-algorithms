@@ -1,4 +1,4 @@
-import { QuickUnion } from '../src/quickUnion';
+import { QuickUnion } from '../src';
 
 describe(QuickUnion, () => {
     it('should union 2 and 3', () => {
